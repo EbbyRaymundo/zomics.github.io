@@ -10,6 +10,12 @@
 ## Who we are:
 We are a group of individuals who suffer from visual impairments and have designed a pair of bifocals that have a universal set of magnification levels.
 
+### Our team:
+Bryan Zavala: CEO
+Ebby Raymundo: CTO
+Anna Trivette: CFO
+
+
 ## The problem we tackle:
 Currently, there are no eyeglasses that have the capability to have a universal set of magnification levels and have no range for long-distance vision. We suffer the ailment of having to rely on prescription glasses that are constrained to certain magnifications which are not perfect. Our vision is frequently changing and so are our glasses. A product that can give people access to these levels of vision will solve the problem of necessity and convenience.
 
