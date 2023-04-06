@@ -7,4 +7,8 @@
 # Zomics
 </div>
 
-![prototype](https://user-images.githubusercontent.com/46846848/230488725-da87b03d-4449-4e4b-b301-8ceb7ad8f2b4.png, style="width: 10vw; min-width: 330px")
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46846848/230488725-da87b03d-4449-4e4b-b301-8ceb7ad8f2b4.png" style="width: 10vw; min-width: 330px;"/>
+</p>
