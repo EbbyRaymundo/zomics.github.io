@@ -20,6 +20,8 @@ We provide a set of bifocal lenses that has the ability to adjust to any level o
 Competitors such as Rodenstock and Essilor offer quality lenses but do not offer technology that adjusts to any magnification level. A single set of lenses are provided but are generally temporary as eyesight tends to worsen over time. 
 
 
+# Product:
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46846848/230488725-da87b03d-4449-4e4b-b301-8ceb7ad8f2b4.png" style="width: 40vw; min-width: 230px;"/>
 </p>
