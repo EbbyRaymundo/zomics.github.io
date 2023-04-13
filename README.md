@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# Zomics
+#Zomics
 </div>
 
 ## Who we are:
