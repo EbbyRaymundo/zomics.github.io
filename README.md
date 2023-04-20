@@ -11,7 +11,7 @@
 We are a group of individuals who suffer from visual impairments and have designed a pair of bifocals that have a universal set of magnification levels.
 
 ### Our team:
-Bryan Zavala: CEO <br>
+Bryan Zavala M.S: CEO <br>
 </br>
 Ebby Raymundo: CTO <br>
 </br>
