@@ -11,11 +11,11 @@
 We are a group of individuals who suffer from visual impairments and have designed a pair of bifocals that have a universal set of magnification levels.
 
 ### Our team:
-Bryan Zavala M.S: CEO <br>
+Bryan Zavala: CEO, B.S. in Biology, current M.S. in Bioinformatics. <br>
 </br>
-Ebby Raymundo: CTO <br>
+Ebby Raymundo: CTO, B.S. in Biology, current M.S. in Bioinformatics. <br>
 </br>
-Anna Trivette: CFO
+Anna Trivette: CFO, current B.S. in Computer Science.
 
 
 ## The problem we tackle:
